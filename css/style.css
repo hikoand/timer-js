@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   height: 300px;
-  width: 100%;
+  width: 300px;
   background: lightblue;
   font-size: 36px;
   color: #fff;
@@ -42,8 +42,8 @@ body{
   background: black;
   color: #fff;
   border: 1px solid #fff;
-  height: 30px;
-  line-height: 30px;
+  height: 90px;
+  line-height: 90px;
   padding: 0 20px;
 }
 
