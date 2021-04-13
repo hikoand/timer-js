@@ -23,9 +23,9 @@ body{
   align-items: center;
   justify-content: center;
   height: 300px;
-  width: 300px;
+  width: 100%;
   background: lightblue;
-  font-size: 36px;
+  font-size: 48px;
   color: #fff;
   border-radius: 100%;
   margin-bottom: 20px;
